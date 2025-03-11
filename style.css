@@ -5,7 +5,7 @@ selector {
 }
 body {
     font-family: Arial.sans-serif
-    color:#D3D3D3
+    color:##808080
     background-color:#f9f9f9
     margin:0
     padding:0
@@ -14,7 +14,7 @@ body {
 header {
 
    background-color: #000000;
-   color: red;
+   color: purple;
    padding: 20px;
    text-align: center;
 }
